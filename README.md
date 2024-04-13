@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinayak Nagar</h1>
 <h3 align="center">Full Stack Web Developer | Competitive Programmer</h3>
+[![An image of @vinayak2k03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayak2k03)](https://holopin.io/@vinayak2k03)
 <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Reddit image" width="1000">
 
 <p align="left"> <a href="https://twitter.com/vinayaknagar09" target="blank"><img src="https://img.shields.io/twitter/follow/vinayaknagar09?logo=twitter&style=for-the-badge" alt="vinayaknagar09" /></a> </p>
