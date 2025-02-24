@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinayak Nagar</h1>
-<h3 align="center">Full Stack Web Developer | Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Reddit image" width="1000">
 
 <p align="left"> <a href="https://twitter.com/vinayaknagar09" target="blank"><img src="https://img.shields.io/twitter/follow/vinayaknagar09?logo=twitter&style=for-the-badge" alt="vinayaknagar09" /></a> </p>
