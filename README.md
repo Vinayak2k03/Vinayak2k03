@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello World! 👋 I'm Vinayak Nagar
+# Hello!👋 I'm Vinayak Nagar
 
 ### Full Stack Developer | MERN Specialist | DSA Enthusiast
 
