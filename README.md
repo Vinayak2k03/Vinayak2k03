@@ -19,7 +19,7 @@
 
 ```javascript
 const vinayak = {
-  currentlyLearning: "Next.js",
+  currentlyLearning: "DevOps",
   expertise: ["MERN Stack", "Data Structures & Algorithms"],
   passions: ["Web Development", "Problem Solving", "Learning New Technologies"],
   contact: "vinayaknagar2810@gmail.com"
@@ -82,7 +82,7 @@ const vinayak = {
 
 ## 🔍 Currently Learning
 
-- 🌱 Diving deep into **Next.js**
+- 🌱 Diving deep into **System Design**
 - 📚 Advancing my **DSA** skills
 - 🛠️ Exploring **DevOps** practices
 
