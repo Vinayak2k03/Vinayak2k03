@@ -23,7 +23,7 @@ I am **Vinayak Nagar**, a **Full Stack Developer**.
 ### **Connect:**
 Have something or just want to connect? **Feel free to reach out!**
 
-- 🌐 [Portfolio](https://vinayaknagar.tech)
+- 🌐 [Portfolio](https://vinayaknagar.me)
 - 🐙 [GitHub](https://github.com/Vinayak2k03)
 - 👔 [LinkedIn](https://www.linkedin.com/in/vinayak2k03/)
 - 🧠 [LeetCode](https://leetcode.com/u/VinayakNagar/)
